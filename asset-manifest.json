@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/todo-app/static/css/main.f247bc25.chunk.css",
-    "main.js": "/todo-app/static/js/main.80f9a0c5.chunk.js",
-    "main.js.map": "/todo-app/static/js/main.80f9a0c5.chunk.js.map",
-    "runtime-main.js": "/todo-app/static/js/runtime-main.1a8494c6.js",
-    "runtime-main.js.map": "/todo-app/static/js/runtime-main.1a8494c6.js.map",
-    "static/js/2.2a2a4d9d.chunk.js": "/todo-app/static/js/2.2a2a4d9d.chunk.js",
-    "static/js/2.2a2a4d9d.chunk.js.map": "/todo-app/static/js/2.2a2a4d9d.chunk.js.map",
-    "index.html": "/todo-app/index.html",
-    "static/css/main.f247bc25.chunk.css.map": "/todo-app/static/css/main.f247bc25.chunk.css.map",
-    "static/js/2.2a2a4d9d.chunk.js.LICENSE.txt": "/todo-app/static/js/2.2a2a4d9d.chunk.js.LICENSE.txt"
+    "main.css": "/productivity-app/static/css/main.dea4a7c9.chunk.css",
+    "main.js": "/productivity-app/static/js/main.b23b3326.chunk.js",
+    "main.js.map": "/productivity-app/static/js/main.b23b3326.chunk.js.map",
+    "runtime-main.js": "/productivity-app/static/js/runtime-main.cc3630af.js",
+    "runtime-main.js.map": "/productivity-app/static/js/runtime-main.cc3630af.js.map",
+    "static/js/2.2a2a4d9d.chunk.js": "/productivity-app/static/js/2.2a2a4d9d.chunk.js",
+    "static/js/2.2a2a4d9d.chunk.js.map": "/productivity-app/static/js/2.2a2a4d9d.chunk.js.map",
+    "index.html": "/productivity-app/index.html",
+    "static/css/main.dea4a7c9.chunk.css.map": "/productivity-app/static/css/main.dea4a7c9.chunk.css.map",
+    "static/js/2.2a2a4d9d.chunk.js.LICENSE.txt": "/productivity-app/static/js/2.2a2a4d9d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/productivity-app/static/media/notebook.3072e5f2.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1a8494c6.js",
+    "static/js/runtime-main.cc3630af.js",
     "static/js/2.2a2a4d9d.chunk.js",
-    "static/css/main.f247bc25.chunk.css",
-    "static/js/main.80f9a0c5.chunk.js"
+    "static/css/main.dea4a7c9.chunk.css",
+    "static/js/main.b23b3326.chunk.js"
   ]
 }
