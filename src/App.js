@@ -12,9 +12,7 @@ const FILTER_MAP = {
 
 const FILTER_NAMES = Object.keys(FILTER_MAP);
 
-console.log(FILTER_NAMES);
-
-function App(props) {
+export default function App(props) {
 
   const [tasks, setTasks] = useState(props.tasks);
 
@@ -65,24 +63,17 @@ function App(props) {
   const headingText = `${taskList.length} ${tasksNoun} remaining`;
 
   return (
-    <div className="todoapp stack-large">
-      <h1>Todo App</h1>
+    <div className="wrapper">
+      <h1>Task List</h1>
       <Form addTask={addTask} />
-      <div className="filters btn-group stack-exception">
+      <div className="filter-btns">
         {filterList}
       </div>
-      <h2 id="list-heading">
-        {headingText}
-      </h2>
-      <ul
-        role="list"
-        className="todo-list stack-large stack-exception"
-        aria-labelledby="list-heading"
-      >
+      <br></br>
+      <h2>{headingText}</h2>
+      <ul role="list" aria-labelledby="list-heading">
         {taskList}
       </ul>
     </div>
   );
 }
-
-export default App;
